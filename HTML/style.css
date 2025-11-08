@@ -1,0 +1,18 @@
+h1{
+    background-color: blue;
+}
+h2 #myid{
+    background-color: aliceblue;
+}
+.myclass{
+    background-color: aqua;
+}
+h2{
+    background-color: aquamarine;
+}
+#myid{
+    background-color: rgb(255, 240, 247);
+}
+.myclass{
+    background-color: aqua;
+}
